@@ -1,5 +1,13 @@
-Employee Management System
+https://binayaksems.netlify.app/
+TRY ADMIN DETAILS :-
+const admin = [{
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "123"
+    }];
 
+
+Employee Management System
 A React-based application for task management between an Admin and multiple Employees. Admins can assign tasks and track progress, while employees can view and update their task statuses (using Local Storage)
 
 🌐 Overview
